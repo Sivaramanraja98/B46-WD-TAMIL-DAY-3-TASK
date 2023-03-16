@@ -1,0 +1,81 @@
+let basic_details = 
+[
+
+ {
+    Firstname : "Sivaraman",
+    lastname : "raja",
+    DOB : "2nd feb 1998",
+ }
+]
+let contact = 
+[
+
+ {
+    mail : "Sivaram1194@gmail.com",
+    ph_no : "9791928453",
+ }
+]
+let Address = 
+[
+ {
+    door_no : "535",
+    street : "Malayan st",
+    city : "Tenkasi",
+    state : "Tamilnadu",
+    pincode : "627811"
+ }
+]
+let sslc_education =
+[
+    {
+        School : "BMMHSS",
+        course : "SSLC",
+        Score : "88.4%",
+        year: "2013"
+    }
+]
+let hsc_education =
+[
+    {
+        School : "BMMHSS",
+        course : "HSC",
+        Score : "81.4%",
+        year: "2015"
+    }
+]
+let ug_education =
+[
+    {
+        College : "KITS",
+        course : "MECHANICAL ENGINEERING",
+        CGPA : "7.77",
+        year: "2015 - 2019"
+    }
+]
+let work_Experiance1 =
+[
+    {
+        Company1: "Micro Precision",
+        Designation1 : "Junior Project Engineer ",
+        Dateofjoining1 : "2 Sept 2019",
+        lastdate1  : "30 sep 2021"
+    }
+]
+let work_Experiance2 =
+[
+    {
+        Company2 : "Micro Precision",
+        Designation2 : "Sales and Marketing Engineer ",
+        Dateofjoining2 : "11 Oct 2021",
+        lastdate2  : "2 nov 2022"
+    }
+]
+
+console.log(basic_details);
+console.log(Address);
+console.log(contact);
+console.log(sslc_education);
+console.log(hsc_education);
+console.log(ug_education);
+console.log(work_Experiance1);
+console.log(work_Experiance2);
