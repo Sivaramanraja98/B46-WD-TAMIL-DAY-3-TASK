@@ -1,0 +1,48 @@
+[{
+    "basicdetails":{
+        "Firstname" : "Sivaraman",
+        "lastname" : "raja",
+        "DOB" : "2nd feb 1998"
+     },
+     "contact": {
+        "mail" : "Sivaram1194@gmail.com",
+        "ph_no" : "9791928453"
+     },
+     "Address": {
+        "door_no" : "535",
+        "street" : "Malayan st",
+        "city" : "Tenkasi",
+        "state" : "Tamilnadu",
+        "pincode" : "627811"
+     },
+     "sslc_education": {
+            "School" : "BMMHSS",
+            "course" : "SSLC",
+            "Score" : "88.4%",
+            "year": "2013"
+        },
+     "hsc_education ": {
+            "School" : "BMMHSS",
+            "course": "HSC",
+            "Score" : "81.4%",
+            "year": "2015"
+        },
+     "ug_education" :    {
+            "College" : "KITS",
+            "course" : "MECHANICAL ENGINEERING",
+            "CGPA" : "7.77",
+            "year": "2015 - 2019"
+        },
+     "work_Experiance1" :    {
+            "Company1": "Micro Precision",
+            "Designation1" : "Junior Project Engineer ",
+            "Dateofjoining1" : "2 Sept 2019",
+            "lastdate1" : "30 sep 2021"
+        },
+     "work_Experiance2" :    {
+            "Company2" : "Micro Precision",
+            "Designation2" : "Sales and Marketing Engineer ",
+            "Dateofjoining2" : "11 Oct 2021",
+            "lastdate2"  : "2 nov 2022"
+        }
+    }]
